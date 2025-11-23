@@ -8,7 +8,7 @@
 - Has related other project-sites.
 - Some may be publics, but some may be privates.
 
-<div float="left">
+<div align="ltr">
   <img alt="Cover Photo" src="https://upld.zone.id/uploads/3uiqk27iq/favicon.webp" width="90%">
   <a href="https://prothesmos.github.io" rel="me">@prothesmos</a>
 </div>
