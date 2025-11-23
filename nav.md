@@ -1,7 +1,7 @@
 <!-- ./nav.md -->
 
-- [Github Projects](./site/pages/)
+- [Github Projects](https://prothesmos.github.io/)
 
-- [Others](./site/blogs/)
+- [Others](https://prothesmos.github.io/)
 
-- [More](./site/hosts/)
+- [More](https://prothesmos.github.io/)
