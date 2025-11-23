@@ -1,7 +1,15 @@
 # Hi there 👋
 
-## Welcome from Pro-Thesmos-HQ
+## Pro-Thesmos-HQ
 
-<div align="center">
-  <img src="https://upld.zone.id/uploads/3uiqk27iq/white.webp">
-</div>
+<p float="left">
+  <a href="https://prothesmos.github.io/profile/">
+  <img alt="ProthesmosHQ" src="https://upld.zone.id/uploads/3uiqk27iq/white.webp" width="75%">
+  </a>
+</p>
+
+## License
+
+- This project is licensed under [MIT License](https://github.com/prothesmos/profile/LICENSE).
+
+**Copyright © 2025 [Pro Thesmos](https://prothesmos.github.io/)**
