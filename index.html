@@ -27,6 +27,8 @@
       repo: 'https://github.com/prothesmos/profile/',
       coverpage: 'coverpage.md',
       loadSidebar: 'sidebar.md',
+      loadNavbar: 'nav.md',
+      loadFooter: 'footer.md',
 
       // Navigation
       auto2top: true,
@@ -38,9 +40,10 @@
       
       // plugins
       search: {
+        maxAge: '86400000',
         placeholder: 'Type to search',
         noData: 'No matches found',
-        depth: 2,
+        depth: 3,
       },
       autoFooter: {
         name: 'Pro Thesmos',
