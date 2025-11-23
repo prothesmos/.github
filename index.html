@@ -53,7 +53,7 @@
         maxAge: '86400000',
         placeholder: 'Type to search',
         noData: 'No matches found',
-        depth: 3,
+        depth: 3
       },
       autoFooter: {
         name: 'Pro Thesmos',
@@ -61,12 +61,25 @@
         copyYear: 2025,
         policy: true,
         terms: true,
-        cookies: true,
+        cookies: true
       },
-    }
+      themeable: {
+        readyTransition: true,
+        responsiveTable: true
+      },
+      pagination: {
+        previousText: 'PREV',
+        nextText: 'NEXT',
+        crossChapter: true,
+        crossChapterText: false
+     },
+      toc: true   
+  }
   </script>
+ 
   <!-- scripts -->
   <script src="assets/css/theme-simple.scss"></script>
+  <script src="assets/css/main.css"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-ethicalads@1"></script>
@@ -81,5 +94,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-dashboard@3.1.0/dist/docsify-dashboard.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
+
 </body>
 </html>
