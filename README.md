@@ -4,5 +4,4 @@
 
 <div align="center">
   <img src="https://upld.zone.id/uploads/3uiqk27iq/white.webp">
-  <a href="https://prothesmos.github.io" rel="me" align="right">Pro-Thesmos-HQ</a>
-  </div>
+</div>
